@@ -1,0 +1,167 @@
+﻿<Page x:Class="Graph2.PageActionWithGraph"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Graph2"
+      mc:Ignorable="d" 
+      d:DesignHeight="650" d:DesignWidth="340"
+      Title="PageActionWithGraph">
+
+    <Grid Background="Lavender" Width="340" Height="650">
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+
+        <ScrollViewer Grid.Row="0" Grid.Column="0">
+            <Grid Height="1550">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition/>
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="250"/>
+                    <RowDefinition Height="250"/>
+                    <RowDefinition Height="250"/>
+                    <RowDefinition Height="250"/>
+                    <RowDefinition Height="250"/>
+                    <RowDefinition Height="250"/>
+                </Grid.RowDefinitions>
+
+                <Border Grid.Row="0" Grid.Column="0" Margin="5" Style="{StaticResource BorderStyle}">
+                    <Grid >
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="*"/>
+                            <RowDefinition Height="*"/>
+                            <RowDefinition Height="*"/>
+                        </Grid.RowDefinitions>
+                        
+                        <Border Grid.Row="0" Margin="5" Style="{StaticResource BorderStyle}">
+                            <StackPanel >
+                                <Label Content="Удаление графа" Style="{StaticResource LabelStyle}"/>
+                                <Button Height="25" Margin="5" Content="Удалить граф" Click="DeleteGraph" Style="{StaticResource ButtonStyle}"/>
+                            </StackPanel>
+                        </Border>
+
+                        <Border Grid.Row="1" Margin="5" Style="{StaticResource BorderStyle}">
+                            <StackPanel >
+                                <Label Content="Очистка графа" Style="{StaticResource LabelStyle}"/>
+                                <Button Height="25" Margin="5" Content="Очистить граф" Click="ClearGraph" Style="{StaticResource ButtonStyle}"/>
+                            </StackPanel>
+                        </Border>
+                        
+                        <Border Grid.Row="2" Margin="5" Style="{StaticResource BorderStyle}">
+                            <StackPanel >
+                                <Label Content="Очистка поля" Style="{StaticResource LabelStyle}"/>
+                                <Button Height="25" Margin="5" Content="Очистить поля" Click="ClearText" Style="{StaticResource ButtonStyle}"/>
+                            </StackPanel>
+                        </Border>
+                        
+                    </Grid>
+                </Border>
+                
+
+                <Border VerticalAlignment="Center" Height="230" Grid.Row="1" Margin="3" Style="{StaticResource ResourceKey=BorderStyle}">
+                    <StackPanel >
+                        <Label Content="Поиск в ширину" Style="{StaticResource ResourceKey=LabelStyle}"/>
+                        <Border Margin="1" Style="{StaticResource ResourceKey=BorderStyle}">
+                            <TextBox 
+                                x:FieldModifier="public" 
+                                x:Name="tbBFS" 
+                                ScrollViewer.VerticalScrollBarVisibility="Auto"  
+                                ScrollViewer.HorizontalScrollBarVisibility="Auto"
+                                Height="145"                        
+                                Background="White"
+                                 IsReadOnly="True"
+                                Style="{StaticResource TextBoxStyle}">
+                            </TextBox>
+                        </Border>
+                        <Button Height="30" Margin="3" Content="Начать поиск в ширину" x:Name="btnBFS" Click="SearchBFS"/>
+                    </StackPanel>
+                </Border>
+
+                <Border VerticalAlignment="Center" Height="230" Grid.Row="2" Margin="3" Style="{StaticResource ResourceKey=BorderStyle}">
+                    <StackPanel >
+                        <Label Content="Поиск в глубину" Style="{StaticResource ResourceKey=LabelStyle}"/>
+                        <Border Margin="1" Style="{StaticResource ResourceKey=BorderStyle}">
+                            <TextBox 
+                                x:FieldModifier="public" 
+                                x:Name="tbDFS" 
+                                ScrollViewer.VerticalScrollBarVisibility="Auto"  
+                                ScrollViewer.HorizontalScrollBarVisibility="Auto"
+                                Height="145"                        
+                                Background="White"
+                                 IsReadOnly="True"
+                                Style="{StaticResource TextBoxStyle}">
+                            </TextBox>
+                        </Border>
+                        <Button Height="30" Margin="3" Content="Начать поиск в глубину" x:Name="btnDFS" Click="SearchDFS"/>
+                    </StackPanel>
+                </Border>
+
+                <Border VerticalAlignment="Center" Height="230" Grid.Row="3" Margin="3" Style="{StaticResource ResourceKey=BorderStyle}">
+                    <StackPanel>
+                        <Label Content="Метод Прима" Style="{StaticResource ResourceKey=LabelStyle}"/>
+                        <Border Margin="1" Style="{StaticResource ResourceKey=BorderStyle}">
+                            <TextBox 
+                                x:FieldModifier="public" 
+                                x:Name="tbPrim" 
+                                ScrollViewer.VerticalScrollBarVisibility="Auto"  
+                                ScrollViewer.HorizontalScrollBarVisibility="Auto"
+                                Height="145"                        
+                                Background="White"
+                                 IsReadOnly="True"
+                                Style="{StaticResource TextBoxStyle}">
+                            </TextBox>
+                        </Border>
+                        <Button Height="30" Margin="3" Content="Метод Прима" x:Name="btnPrim" Click="SearchPrim"/>
+                    </StackPanel>
+                </Border>
+
+                <Border VerticalAlignment="Center" Height="230" Grid.Row="4" Margin="3" Style="{StaticResource ResourceKey=BorderStyle}">
+                    <StackPanel >
+                        <Label Content="Метод Краскала" Style="{StaticResource ResourceKey=LabelStyle}"/>
+                        <Border Margin="1" Style="{StaticResource ResourceKey=BorderStyle}">
+                            <TextBox 
+                                x:FieldModifier="public" 
+                                x:Name="tbKrascal" 
+                                ScrollViewer.VerticalScrollBarVisibility="Auto"  
+                                ScrollViewer.HorizontalScrollBarVisibility="Auto"
+                                Height="145"                        
+                                Background="White"
+                                 IsReadOnly="True"
+                                Style="{StaticResource TextBoxStyle}">
+                            </TextBox>
+                        </Border>
+                        <Button Height="30" Margin="3" Content="Метод Краскала" x:Name="btnKrascal" Click="SearchKruskal"/>
+                    </StackPanel>
+                </Border>
+
+                <Border VerticalAlignment="Center" Height="230" Grid.Row="5" Margin="3" Style="{StaticResource ResourceKey=BorderStyle}">
+                    <StackPanel >
+                        <Label Content="Метод Дейкстры" Style="{StaticResource ResourceKey=LabelStyle}"/>
+                        <Border Margin="1" Style="{StaticResource ResourceKey=BorderStyle}">
+                            <TextBox 
+                                x:FieldModifier="public" 
+                                x:Name="tbDeykstra" 
+                                ScrollViewer.VerticalScrollBarVisibility="Auto"  
+                                ScrollViewer.HorizontalScrollBarVisibility="Auto"
+                                Height="145"                        
+                                Background="White"
+                                 IsReadOnly="True"
+                                Style="{StaticResource TextBoxStyle}">
+                            </TextBox>
+                        </Border>
+                        <Button Height="30" Margin="3" Content="Метод Дейкстры" x:Name="btnDeykstra" Click="SearchDijkstra"/>
+                    </StackPanel>
+                </Border>
+
+            </Grid>
+        </ScrollViewer>
+        
+    </Grid>
+    
+</Page>

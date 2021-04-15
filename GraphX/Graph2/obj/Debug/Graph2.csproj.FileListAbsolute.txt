@@ -1,0 +1,79 @@
+C:\Users\myacc\OneDrive\Рабочий стол\Graph2\Graph2\bin\Debug\Graph2.exe.config
+C:\Users\myacc\OneDrive\Рабочий стол\Graph2\Graph2\bin\Debug\Graph2.exe
+C:\Users\myacc\OneDrive\Рабочий стол\Graph2\Graph2\bin\Debug\Graph2.pdb
+C:\Users\myacc\OneDrive\Рабочий стол\Graph2\Graph2\obj\Debug\MainWindow.g.cs
+C:\Users\myacc\OneDrive\Рабочий стол\Graph2\Graph2\obj\Debug\App.g.cs
+C:\Users\myacc\OneDrive\Рабочий стол\Graph2\Graph2\obj\Debug\Graph2_MarkupCompile.cache
+C:\Users\myacc\OneDrive\Рабочий стол\Graph2\Graph2\obj\Debug\Graph2_MarkupCompile.lref
+C:\Users\myacc\OneDrive\Рабочий стол\Graph2\Graph2\obj\Debug\MainWindow.baml
+C:\Users\myacc\OneDrive\Рабочий стол\Graph2\Graph2\obj\Debug\Graph2.g.resources
+C:\Users\myacc\OneDrive\Рабочий стол\Graph2\Graph2\obj\Debug\Graph2.Properties.Resources.resources
+C:\Users\myacc\OneDrive\Рабочий стол\Graph2\Graph2\obj\Debug\Graph2.csproj.GenerateResource.cache
+C:\Users\myacc\OneDrive\Рабочий стол\Graph2\Graph2\obj\Debug\Graph2.csproj.CoreCompileInputs.cache
+C:\Users\myacc\OneDrive\Рабочий стол\Graph2\Graph2\obj\Debug\Graph2.exe
+C:\Users\myacc\OneDrive\Рабочий стол\Graph2\Graph2\obj\Debug\Graph2.pdb
+C:\Users\myacc\OneDrive\Рабочий стол\Graph2\Graph2\obj\Debug\App.baml
+C:\Users\myacc\OneDrive\Рабочий стол\Graph2\Graph2\obj\Debug\PageDrawGraph.g.cs
+C:\Users\myacc\OneDrive\Рабочий стол\Graph2\Graph2\obj\Debug\PageDrawGraph.baml
+C:\Users\myacc\OneDrive\Рабочий стол\Graph2\Graph2\obj\Debug\PageActionWithGraph.g.cs
+C:\Users\myacc\OneDrive\Рабочий стол\Graph2\Graph2\obj\Debug\PageInformationAboutGraph.g.cs
+C:\Users\myacc\OneDrive\Рабочий стол\Graph2\Graph2\obj\Debug\PageSettings.g.cs
+C:\Users\myacc\OneDrive\Рабочий стол\Graph2\Graph2\obj\Debug\PageActionWithGraph.baml
+C:\Users\myacc\OneDrive\Рабочий стол\Graph2\Graph2\obj\Debug\PageInformationAboutGraph.baml
+C:\Users\myacc\OneDrive\Рабочий стол\Graph2\Graph2\obj\Debug\PageSettings.baml
+C:\Users\myacc\OneDrive\Рабочий стол\Graph2\Graph2\obj\Debug\InputWeight.g.cs
+C:\Users\myacc\OneDrive\Рабочий стол\Graph2\Graph2\obj\Debug\InputWeight.baml
+C:\Users\myacc\OneDrive\Рабочий стол\Graph2\Graph2\obj\Debug\Graph2.csprojAssemblyReference.cache
+C:\Users\myacc\Google Диск\Lab\5 семестр\ООП\Курсовая Работа\Graph2\Graph2\bin\Debug\Graph2.exe.config
+C:\Users\myacc\Google Диск\Lab\5 семестр\ООП\Курсовая Работа\Graph2\Graph2\bin\Debug\Graph2.exe
+C:\Users\myacc\Google Диск\Lab\5 семестр\ООП\Курсовая Работа\Graph2\Graph2\bin\Debug\Graph2.pdb
+C:\Users\myacc\Google Диск\Lab\5 семестр\ООП\Курсовая Работа\Graph2\Graph2\obj\Debug\InputWeight.g.cs
+C:\Users\myacc\Google Диск\Lab\5 семестр\ООП\Курсовая Работа\Graph2\Graph2\obj\Debug\MainWindow.g.cs
+C:\Users\myacc\Google Диск\Lab\5 семестр\ООП\Курсовая Работа\Graph2\Graph2\obj\Debug\PageActionWithGraph.g.cs
+C:\Users\myacc\Google Диск\Lab\5 семестр\ООП\Курсовая Работа\Graph2\Graph2\obj\Debug\PageDrawGraph.g.cs
+C:\Users\myacc\Google Диск\Lab\5 семестр\ООП\Курсовая Работа\Graph2\Graph2\obj\Debug\PageInformationAboutGraph.g.cs
+C:\Users\myacc\Google Диск\Lab\5 семестр\ООП\Курсовая Работа\Graph2\Graph2\obj\Debug\PageSettings.g.cs
+C:\Users\myacc\Google Диск\Lab\5 семестр\ООП\Курсовая Работа\Graph2\Graph2\obj\Debug\App.g.cs
+C:\Users\myacc\Google Диск\Lab\5 семестр\ООП\Курсовая Работа\Graph2\Graph2\obj\Debug\Graph2_MarkupCompile.cache
+C:\Users\myacc\Google Диск\Lab\5 семестр\ООП\Курсовая Работа\Graph2\Graph2\obj\Debug\Graph2_MarkupCompile.lref
+C:\Users\myacc\Google Диск\Lab\5 семестр\ООП\Курсовая Работа\Graph2\Graph2\obj\Debug\App.baml
+C:\Users\myacc\Google Диск\Lab\5 семестр\ООП\Курсовая Работа\Graph2\Graph2\obj\Debug\InputWeight.baml
+C:\Users\myacc\Google Диск\Lab\5 семестр\ООП\Курсовая Работа\Graph2\Graph2\obj\Debug\MainWindow.baml
+C:\Users\myacc\Google Диск\Lab\5 семестр\ООП\Курсовая Работа\Graph2\Graph2\obj\Debug\PageActionWithGraph.baml
+C:\Users\myacc\Google Диск\Lab\5 семестр\ООП\Курсовая Работа\Graph2\Graph2\obj\Debug\PageDrawGraph.baml
+C:\Users\myacc\Google Диск\Lab\5 семестр\ООП\Курсовая Работа\Graph2\Graph2\obj\Debug\PageInformationAboutGraph.baml
+C:\Users\myacc\Google Диск\Lab\5 семестр\ООП\Курсовая Работа\Graph2\Graph2\obj\Debug\PageSettings.baml
+C:\Users\myacc\Google Диск\Lab\5 семестр\ООП\Курсовая Работа\Graph2\Graph2\obj\Debug\Graph2.g.resources
+C:\Users\myacc\Google Диск\Lab\5 семестр\ООП\Курсовая Работа\Graph2\Graph2\obj\Debug\Graph2.Properties.Resources.resources
+C:\Users\myacc\Google Диск\Lab\5 семестр\ООП\Курсовая Работа\Graph2\Graph2\obj\Debug\Graph2.csproj.GenerateResource.cache
+C:\Users\myacc\Google Диск\Lab\5 семестр\ООП\Курсовая Работа\Graph2\Graph2\obj\Debug\Graph2.csproj.CoreCompileInputs.cache
+C:\Users\myacc\Google Диск\Lab\5 семестр\ООП\Курсовая Работа\Graph2\Graph2\obj\Debug\Graph2.exe
+C:\Users\myacc\Google Диск\Lab\5 семестр\ООП\Курсовая Работа\Graph2\Graph2\obj\Debug\Graph2.pdb
+C:\Users\myacc\Google Диск\Lab\5 семестр\ООП\Курсовая Работа\GraphX\Graph2\bin\Debug\Graph2.exe.config
+C:\Users\myacc\Google Диск\Lab\5 семестр\ООП\Курсовая Работа\GraphX\Graph2\bin\Debug\Graph2.exe
+C:\Users\myacc\Google Диск\Lab\5 семестр\ООП\Курсовая Работа\GraphX\Graph2\bin\Debug\Graph2.pdb
+C:\Users\myacc\Google Диск\Lab\5 семестр\ООП\Курсовая Работа\GraphX\Graph2\obj\Debug\InputWeight.g.cs
+C:\Users\myacc\Google Диск\Lab\5 семестр\ООП\Курсовая Работа\GraphX\Graph2\obj\Debug\MainWindow.g.cs
+C:\Users\myacc\Google Диск\Lab\5 семестр\ООП\Курсовая Работа\GraphX\Graph2\obj\Debug\PageActionWithGraph.g.cs
+C:\Users\myacc\Google Диск\Lab\5 семестр\ООП\Курсовая Работа\GraphX\Graph2\obj\Debug\PageDrawGraph.g.cs
+C:\Users\myacc\Google Диск\Lab\5 семестр\ООП\Курсовая Работа\GraphX\Graph2\obj\Debug\PageInformationAboutGraph.g.cs
+C:\Users\myacc\Google Диск\Lab\5 семестр\ООП\Курсовая Работа\GraphX\Graph2\obj\Debug\PageSettings.g.cs
+C:\Users\myacc\Google Диск\Lab\5 семестр\ООП\Курсовая Работа\GraphX\Graph2\obj\Debug\App.g.cs
+C:\Users\myacc\Google Диск\Lab\5 семестр\ООП\Курсовая Работа\GraphX\Graph2\obj\Debug\Graph2_MarkupCompile.cache
+C:\Users\myacc\Google Диск\Lab\5 семестр\ООП\Курсовая Работа\GraphX\Graph2\obj\Debug\Graph2_MarkupCompile.lref
+C:\Users\myacc\Google Диск\Lab\5 семестр\ООП\Курсовая Работа\GraphX\Graph2\obj\Debug\App.baml
+C:\Users\myacc\Google Диск\Lab\5 семестр\ООП\Курсовая Работа\GraphX\Graph2\obj\Debug\InputWeight.baml
+C:\Users\myacc\Google Диск\Lab\5 семестр\ООП\Курсовая Работа\GraphX\Graph2\obj\Debug\MainWindow.baml
+C:\Users\myacc\Google Диск\Lab\5 семестр\ООП\Курсовая Работа\GraphX\Graph2\obj\Debug\PageActionWithGraph.baml
+C:\Users\myacc\Google Диск\Lab\5 семестр\ООП\Курсовая Работа\GraphX\Graph2\obj\Debug\PageDrawGraph.baml
+C:\Users\myacc\Google Диск\Lab\5 семестр\ООП\Курсовая Работа\GraphX\Graph2\obj\Debug\PageInformationAboutGraph.baml
+C:\Users\myacc\Google Диск\Lab\5 семестр\ООП\Курсовая Работа\GraphX\Graph2\obj\Debug\PageSettings.baml
+C:\Users\myacc\Google Диск\Lab\5 семестр\ООП\Курсовая Работа\GraphX\Graph2\obj\Debug\Graph2.g.resources
+C:\Users\myacc\Google Диск\Lab\5 семестр\ООП\Курсовая Работа\GraphX\Graph2\obj\Debug\Graph2.Properties.Resources.resources
+C:\Users\myacc\Google Диск\Lab\5 семестр\ООП\Курсовая Работа\GraphX\Graph2\obj\Debug\Graph2.csproj.GenerateResource.cache
+C:\Users\myacc\Google Диск\Lab\5 семестр\ООП\Курсовая Работа\GraphX\Graph2\obj\Debug\Graph2.csproj.CoreCompileInputs.cache
+C:\Users\myacc\Google Диск\Lab\5 семестр\ООП\Курсовая Работа\GraphX\Graph2\obj\Debug\Graph2.exe
+C:\Users\myacc\Google Диск\Lab\5 семестр\ООП\Курсовая Работа\GraphX\Graph2\obj\Debug\Graph2.pdb
+C:\Users\myacc\Google Диск\Lab\5 семестр\ООП\Курсовая Работа\GraphX\Graph2\obj\Debug\TreeRoad.g.cs
+C:\Users\myacc\Google Диск\Lab\5 семестр\ООП\Курсовая Работа\GraphX\Graph2\obj\Debug\TreeRoad.baml
+C:\Users\myacc\Google Диск\Lab\5 семестр\ООП\Курсовая Работа\GraphX\Graph2\obj\Debug\Graph2.csprojAssemblyReference.cache
